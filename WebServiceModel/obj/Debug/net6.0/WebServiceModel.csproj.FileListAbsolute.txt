@@ -1,0 +1,12 @@
+C:\Users\Javier\Downloads\WebService\WebServiceModel\bin\Debug\net6.0\WebServiceModel.deps.json
+C:\Users\Javier\Downloads\WebService\WebServiceModel\bin\Debug\net6.0\WebServiceModel.dll
+C:\Users\Javier\Downloads\WebService\WebServiceModel\bin\Debug\net6.0\WebServiceModel.pdb
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.csproj.AssemblyReference.cache
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.AssemblyInfoInputs.cache
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.AssemblyInfo.cs
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.dll
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\refint\WebServiceModel.dll
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\WebServiceModel.pdb
+C:\Users\Javier\Downloads\WebService\WebServiceModel\obj\Debug\net6.0\ref\WebServiceModel.dll
