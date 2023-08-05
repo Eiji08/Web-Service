@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\Downloads\\WebService\\WebService\\WebService.csproj": {}
+    "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebService\\WebService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\WebServiceData1.csproj": {
+    "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\WebServiceData1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\WebServiceData1.csproj",
+        "projectUniqueName": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\WebServiceData1.csproj",
         "projectName": "WebServiceData1",
-        "projectPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\WebServiceData1.csproj",
-        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\obj\\",
+        "projectPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\WebServiceData1.csproj",
+        "packagesPath": "C:\\Users\\eijia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\eijia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\WebServiceModel.csproj": {
-                "projectPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\WebServiceModel.csproj"
+              "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\WebServiceModel.csproj": {
+                "projectPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\WebServiceModel.csproj"
               }
             }
           }
@@ -73,25 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\WebServiceModel.csproj": {
+    "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\WebServiceModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\WebServiceModel.csproj",
+        "projectUniqueName": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\WebServiceModel.csproj",
         "projectName": "WebServiceModel",
-        "projectPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\WebServiceModel.csproj",
-        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceModel\\obj\\",
+        "projectPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\WebServiceModel.csproj",
+        "packagesPath": "C:\\Users\\eijia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\eijia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,25 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Javier\\Downloads\\WebService\\WebService\\WebService.csproj": {
+    "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebService\\WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Downloads\\WebService\\WebService\\WebService.csproj",
+        "projectUniqueName": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebService\\WebService.csproj",
         "projectName": "WebService",
-        "projectPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebService\\WebService.csproj",
-        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebService\\obj\\",
+        "projectPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebService\\WebService.csproj",
+        "packagesPath": "C:\\Users\\eijia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\eijia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,15 +146,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\WebServiceData1.csproj": {
-                "projectPath": "C:\\Users\\Javier\\Downloads\\WebService\\WebServiceData1\\WebServiceData1.csproj"
+              "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\WebServiceData1.csproj": {
+                "projectPath": "C:\\Users\\eijia\\Downloads\\WebService\\WebService\\WebServiceData1\\WebServiceData1.csproj"
               }
             }
           }
@@ -209,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

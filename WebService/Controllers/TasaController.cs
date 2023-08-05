@@ -11,20 +11,28 @@ namespace WebService.Controllers
     {
         private readonly ITasaRepository _tasaRepository;
 
-        public TasaController(ITasaRepository tasaRepository)
+        private readonly IUsoRepository _usoRepository;
+
+        public TasaController(ITasaRepository tasaRepository, IUsoRepository usoRepository)
         {
             _tasaRepository = tasaRepository;
+
+            _usoRepository = usoRepository;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetTasa()
         {
+            await _usoRepository.GuardarUso("TasaCambio");
+
             return Ok(await _tasaRepository.GetTasa());
         }
 
         [HttpGet("{Moneda}")]
         public async Task<IActionResult> GetTasa(string Moneda)
         {
+            await _usoRepository.GuardarUso("TasaCambio");
+
             return Ok(await _tasaRepository.GetTasa(Moneda));
         }
     }

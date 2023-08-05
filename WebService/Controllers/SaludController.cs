@@ -11,20 +11,28 @@ namespace WebService.Controllers
 
         private readonly ISaludRepository _saludRepository;
 
-        public SaludController(ISaludRepository saludRepository)
+        private readonly IUsoRepository _usoRepository;
+
+        public SaludController(ISaludRepository saludRepository, IUsoRepository usoRepository)
         {
             _saludRepository = saludRepository;
+
+            _usoRepository = usoRepository;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetSalud()
         {
+            await _usoRepository.GuardarUso("SaludFinanciera");
+
             return Ok(await _saludRepository.GetSalud());
         }
 
         [HttpGet("{Cedula}")]
         public async Task<IActionResult> GetSalud(string Cedula)
         {
+            await _usoRepository.GuardarUso("SaludFinanciera");
+
             return Ok(await _saludRepository.GetSalud(Cedula));
         }
     }

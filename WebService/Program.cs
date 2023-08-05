@@ -31,6 +31,9 @@ builder.Services.AddScoped<IHistorialRepository, HistorialRepository>();
 //Web service de Registro
 builder.Services.AddScoped<IRegistroRepository, RegistroRepository>();
 
+//Web service de Uso
+builder.Services.AddScoped<IUsoRepository, UsoRepository>();
+
 
 var app = builder.Build();
 
